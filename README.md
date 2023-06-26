@@ -61,5 +61,15 @@ For practise, you could try offering a drink/food to someone or write about drin
 Ich Driga Tün, becüc ich ad Anglüs (I drink tea because I am English)
 Wüd du lihe tün wit süh? (Would you like tea with sugar?)
 
-#
-
+# Verbs and adverbs
++ Gret - Get
++ Grot - Got
++ Wüb - Why
++ Es - Is
++ Un - A
++ Is - As
++ Ad - Am
++ Wüs - Was
++ Würe - Were
++ Len - Been
++ Lenein - Being
